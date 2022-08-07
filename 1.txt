@@ -1,2 +1,1 @@
-First line in file
-Second line in file
+Replace first line to zero line
